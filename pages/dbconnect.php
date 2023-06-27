@@ -1,7 +1,7 @@
 <?php
 
 $servername="localhost";
-$uname="root";
+$uname="rustyt";
 $pass="Hello@123";
 $db="bloodbank";
 
